@@ -1,0 +1,13 @@
+{
+    "embeddingServiceUrl": "http://127.0.0.1:11434/api/embeddings",
+    "modelServiceUrl": "http://127.0.0.1:11434/api/generate",
+    "databasePath": "C:\\proyectos_dev\\js\\lumis-clasificador\\file_info.db",
+    "memoryLimit": 10,
+    "showDocumentNames": true, 
+    "showEmbeddingContent": true,
+    "model": "tinyllama",
+    "temperature": 0.7,
+    "max_tokens": 100,
+    "stream": false
+  }
+  
